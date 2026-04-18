@@ -1,0 +1,4 @@
+Hi everyone, today, I wrote a code in python, this is a practice for list and dictionary python uses.
+I used 5 "fake" sensors to display in the terminal, and a conditional that show if any sensor is above 30 °C degree.
+All steps completed successfully, it wasn't difficult for this class.
+In the next session I plan to integrate a more array data and other sensors like motors, RPM, and AC/DC values.
