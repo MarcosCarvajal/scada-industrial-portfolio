@@ -93,30 +93,6 @@ real-time control exercises.
 
 ---
 
-## Repo Structure
-
-```
-/
-├── README.md               ← this file
-├── week-01/
-│   ├── TUESDAY.md
-│   ├── WEDNESDAY.md
-│   ├── THURSDAY.md
-│   ├── sensors.py
-│   ├── json_practice.py
-│   ├── functions_practice.py
-│   ├── sensor_data.json
-│   ├── plc_payload.json
-│   ├── tuesday_email.txt
-│   ├── wednesday_notes.txt
-│   └── thursday_notes.txt
-├── week-02/
-│   └── ...
-└── ...
-```
-
----
-
 ## Certifications Target
 
 | Certification | Provider | Target date |
