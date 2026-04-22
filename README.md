@@ -10,10 +10,6 @@ Every session is documented here with code, notes, and deliverables.
 
 ## Progress
 
-```
-Week 01 ████████░░░░░░░░░░░░░░░░  3 / 7 days complete
-```
-
 | Phase | Weeks | Focus | Status |
 |---|---|---|---|
 | 1 — Foundations | 1 – 6 | Python for OT · SQL · Ignition basics | 🔵 In progress |
@@ -31,9 +27,9 @@ Week 01 ████████░░░░░░░░░░░░░░░░
 | Day | Topic | Status |
 |---|---|---|
 | Monday | Dev environment setup — Python 3.11 + VS Code + Pylance | ✅ Done |
-| Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/TUESDAY.md) | ✅ Done |
-| Wednesday | [JSON Files & PLC Payloads](week-01/WEDNESDAY.md) | ✅ Done |
-| Thursday | [Functions & Error Handling](week-01/THURSDAY.md) | 🔵 Today |
+| Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/sensor/readme.md) | ✅ Done |
+| Wednesday | [JSON Files & PLC Payloads](week-01/json_files/readme.md) | ✅ Done |
+| Thursday | [Functions & Error Handling](week-01/functions_loops_errors/readme.md) | 🔵 upcoming |
 | Friday | Filtering & formatting — `get_sensor_status` in practice | ⬜ |
 | Saturday | Mini-project — CSV reader + anomaly filter + JSON output | ⬜ |
 | Sunday | Week 1 milestone review & refactor | ⬜ |
