@@ -1,0 +1,32 @@
+[
+    {
+        "tag": "TEMP_ZONE_A",
+        "value": 23.5,
+        "degree": "°C",
+        "timestamp": "2026-04-18 13:05:22"
+    },
+    {
+        "tag": "TEMP_ZONE_B",
+        "value": 19.5,
+        "degree": "°C",
+        "timestamp": "2026-04-18 14:10:32"
+    },
+    {
+        "tag": "TEMP_ZONE_C",
+        "value": 32.1,
+        "degree": "°C",
+        "timestamp": "2026-04-18 14:18:02"
+    },
+    {
+        "tag": "TEMP_ZONE_D",
+        "value": 22.8,
+        "degree": "°C",
+        "timestamp": "2026-04-18 13:10:00"
+    },
+    {
+        "tag": "TEMP_RC_MOTOR",
+        "value": 38.0,
+        "degree": "°C",
+        "timestamp": "2026-04-18 13:42:55"
+    }
+]

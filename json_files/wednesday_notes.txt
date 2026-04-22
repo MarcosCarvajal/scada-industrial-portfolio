@@ -1,0 +1,17 @@
+Wednesday notes about basics scripting
+the words that I dont understad its:
+indented underneath wich means is a text line that is move above right using spaces or tabs
+becomes convenient or even necesary is meaning if you have "convenient" you can do something 
+    more easy, or maybe is stricted necesary or that didn't work
+regarding datasets is how we usea "dataset" regarding is a best way for say "about" or "conerning"
+    insted of "now let's talk about the datasets" we can say "regarding the datasets"
+
+
+corrections
+1. system library - have a collectiong functions, this libary help us to scripting in ignition
+2. system.tags - is used to reading and writing tags in ignition designer
+3. system.db - we can use it for runnig SQL in a database
+4. sysem.gui and system.nav - with this we can open, and close, and otherwise manipulate windows
+5. Gateway Event Scritps - the scripts that we "programming" in this scope, are running in gateway server, so 
+    if we need "reload" webpage, or restar any process of server side using the scope gateway event script we can do it.
+

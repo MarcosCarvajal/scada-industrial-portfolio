@@ -1,0 +1,26 @@
+{
+    "device": "RC_GREENHOUSE_01",
+    "location": "Pereira",
+    "readings": [
+        {
+            "tag": "TEMP_ZONE_A",
+            "value": 23.5
+        },
+        {
+            "tag": "TEMP_ZONE_B",
+            "value": 19.5
+        },
+        {
+            "tag": "TEMP_ZONE_C",
+            "value": 32.1
+        },
+        {
+            "tag": "TEMP_ZONE_D",
+            "value": 22.8
+        },
+        {
+            "tag": "TEMP_RC_MOTOR",
+            "value": 38.0
+        }
+    ]
+}
