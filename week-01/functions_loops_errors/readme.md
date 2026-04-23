@@ -169,7 +169,7 @@ script, the entire data pipeline stops silently.
 
 A function that returns `"ERROR"` instead of crashing lets the rest of the
 system keep running and gives operators a visible signal that one sensor
-needs attention.
+needs attention. 
 
 ---
 

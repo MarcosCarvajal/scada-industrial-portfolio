@@ -1,5 +1,5 @@
 # Friday — Week 1: Formatting, Filtering & Clean Code
-
+ 
 ## Session Overview
 
 This week you built the core tools: lists, dicts, JSON, functions, and
