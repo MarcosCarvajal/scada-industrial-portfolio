@@ -67,19 +67,6 @@ Weeks 19 – 24.
 
 ---
 
-## Case Studies
-
-All technical exercises are built around two real-world scenarios:
-
-**Greenhouse** — A controlled hydroponic crop environment with temperature,
-humidity, and pH sensors. Used for data logging, alarming, and dashboard design.
-
-**RC Car** — A remote-controlled vehicle with motor temperature, speed, and
-battery sensors connected via Modbus. Used for protocol integration and
-real-time control exercises.
-
----
-
 ## Tech Stack
 
 | Layer | Technology |
