@@ -29,8 +29,8 @@ Every session is documented here with code, notes, and deliverables.
 | Monday | Dev environment setup — Python 3.11 + VS Code + Pylance | ✅ Done |
 | Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/sensor/README.md) | ✅ Done |
 | Wednesday | [JSON Files & PLC Payloads](week-01/json_files/README.md) | ✅ Done |
-| Thursday | [Functions & Error Handling](week-01/functions_loops_errors/README.md) | ✅ Done  |
-| Friday | [Filtering & formatting](week-01/formatthing_filtering_clean_code/README.md) | 🔵 upcoming |
+| Thursday | [Functions & Error Handling](week-01/functions_loops_errors/readme.md) | ✅ Done  |
+| Friday | [Filtering & formatting](week-01/formatthing_filtering_clean_code/readme.md) | 🔵 upcoming |
 | Saturday | Mini-project — CSV reader + anomaly filter + JSON output | ⬜ |
 | Sunday | Week 1 milestone review & refactor | ⬜ |
 
