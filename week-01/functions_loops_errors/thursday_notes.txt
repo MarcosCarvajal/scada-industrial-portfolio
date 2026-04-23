@@ -1,0 +1,11 @@
+Read https://docs.inductiveautomation.com/docs/8.1/platform/scripting/python-scripting 
+
+Python scripting
+
+1. One of the powerful thing about using jython is we can use script has access to the entire java standard libary
+2. Jython is similar to Python with some changes like call "print" function because it does not require parentheses 
+3. when we use jython when declaring variables, types of values or logic operators we do the same like we do in python
+4. in jython we can use system.gui.color library lets us select or "change" color 
+5. Where the use of jython and Python is different is when reading a JSON file or "write" in file, because in Python
+we import JSON and use or json.dump(s) for write or json.load(s) for read, but in Jython we need to use system.util.jsonEncode
+for write code and system.util.jsonDecode for read code.
