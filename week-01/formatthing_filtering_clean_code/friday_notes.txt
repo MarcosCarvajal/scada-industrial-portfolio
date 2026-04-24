@@ -1,0 +1,10 @@
+Technical summary Week01 24/04/2026
+
+1. In this week i wrote a few scripts in the sensors script i learned about list and dictionaries, 
+    how to combine them to show data in console and how to use "for loop" and "if conditions", in the json_practice
+    I implemented the json library for read a json o write a json in file, also in function practice i have created some functions
+    that transform data and handle exceptions (errors) during data processing. finally i wrote a friday script where we use a new concepts regarding
+    use of len, sort, reverse, ljust and rjust this new function help us to properly format the output.
+2. I think the hardest concept that I have to solved was how "center" the output, because I had to think the reference between diferents variables and it's width
+3. if I had to start again, i think maybe i would write better clean code and do more functions to modular code.
+4. I don't have plan for the next week becase i am still in progress, i do not have a clear plan yet.
