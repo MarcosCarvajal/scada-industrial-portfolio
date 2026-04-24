@@ -13,13 +13,13 @@
     },
     {
         "tag": "TEMP_ZONE_C",
-        "value": 32.1,
+        "value": "NULL",
         "degree": "°C",
         "timestamp": "2026-04-18 14:18:02"
     },
     {
         "tag": "TEMP_ZONE_D",
-        "value": 22.8,
+        "value": 32.8,
         "degree": "°C",
         "timestamp": "2026-04-18 13:10:00"
     },
