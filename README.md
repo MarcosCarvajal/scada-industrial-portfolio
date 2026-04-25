@@ -1,40 +1,68 @@
-# Industrial Automation Learning Path
-### SCADA / PLC Developer Roadmap — 6 Months
+# Industrial Automation Portfolio
+### SCADA / IIoT Developer — Transitioning from Software Engineering
 
-A hands-on, project-based curriculum to become an **Ignition SCADA / PLC Developer**.
-Every session is documented here with code, notes, and deliverables.
+Transitioning from **Full-Stack Software Development → Industrial Automation (SCADA / IIoT)**.
+This repository documents a hands-on, project-first path to become an Ignition SCADA Developer
+with strong software engineering foundations.
 
-**Stack:** Python · Jython · Ignition Perspective · SQL · Modbus · OPC-UA · MQTT
+**Background:** 4+ years in enterprise software (Angular · Oracle Forms · COBOL · SQL) +
+Electrical Technology degree → now applying that foundation to OT systems.
 
 ---
 
-## Progress
+## Goal
+
+Build a job-ready SCADA portfolio focused on:
+- **Ignition Perspective** — HMI/SCADA dashboards
+- **Industrial protocols** — MQTT · OPC-UA · Modbus TCP
+- **Backend integration** — Python · Jython · SQL historians
+- **Real-world simulations** — greenhouse control · RC car telemetry
+
+Target: **remote SCADA/IIoT Developer role** (USA / Europe market)
+
+---
+
+## Roadmap Overview
 
 | Phase | Weeks | Focus | Status |
 |---|---|---|---|
 | 1 — Foundations | 1 – 6 | Python for OT · SQL · Ignition basics | 🔵 In progress |
 | 2 — Protocols | 7 – 12 | Modbus · OPC-UA · MQTT · Alarms | ⬜ Upcoming |
-| 3 — Real Projects | 13 – 18 | HMI design · Security · Certification | ⬜ Upcoming |
-| 4 — Portfolio | 19 – 24 | Job search · Capstone · Launch | ⬜ Upcoming |
+| 3 — Real Projects | 13 – 18 | HMI design · OT Security · Certification | ⬜ Upcoming |
+| 4 — Portfolio | 19 – 24 | Capstone · Job search · Launch | ⬜ Upcoming |
 
 ---
 
 ## Phase 1 — Foundations
-> Python for OT · SQL Historians · Ignition Perspective · JSON · Jython scripting
 
-### Week 1 — Python Core for Industrial Data
+### Python for Industrial Data (Week 1) ✅
+
+These are not basic exercises — they simulate real industrial data workflows:
+
+| Script | Industrial context |
+|---|---|
+| `sensors.py` | Sensor data modeling — temperature tags, alert thresholds, status classification |
+| `json_practice.py` | PLC-style JSON payloads — write, read, and parse nested device data |
+| `functions_practice.py` | Reusable processing functions with error handling for unreliable signals |
+| `friday_practice.py` | Operator-style formatted reports — filtering, sorting, anomaly display |
+| `milestone.py` | Full pipeline — CSV historian export → anomaly detection → JSON output |
+
+**Week 1 milestone:** end-to-end data pipeline from raw CSV records to classified JSON output
+with operator report — the same flow Ignition runs on every historian query.
+
+---
+
+### Week 1 — Session Log
 
 | Day | Topic | Status |
 |---|---|---|
-| Monday | Dev environment setup — Python 3.11 + VS Code + Pylance | ✅ Done |
-| Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/sensor/README.md) | ✅ Done |
-| Wednesday | [JSON Files & PLC Payloads](week-01/json_files/README.md) | ✅ Done |
-| Thursday | [Functions & Error Handling](week-01/functions_loops_errors/readme.md) | ✅ Done  |
-| Friday | [Filtering & formatting](week-01/formatthing_filtering_clean_code/readme.md) | ✅ Done |
-| Saturday | [Mini-project — CSV reader + anomaly filter + JSON output](week-01/milestone_project/README.md) | 🔵 upcoming |
-| Sunday | Week 1 milestone review & refactor | ⬜ |
-
-**Week 1 milestone:** A Python script that reads a CSV file of 20 sensor records, filters anomalies, and saves the result as a JSON file.
+| Monday | Dev environment — Python 3.11 + VS Code + Pylance | ✅ |
+| Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/TUESDAY.md) | ✅ |
+| Wednesday | [JSON Files & PLC Payloads](week-01/WEDNESDAY.md) | ✅ |
+| Thursday | [Functions & Error Handling](week-01/THURSDAY.md) | ✅ |
+| Friday | [Formatting, Filtering & Clean Code](week-01/FRIDAY.md) | ✅ |
+| Saturday | [Milestone — CSV Pipeline](week-01/SATURDAY.md) | 🔵 Today |
+| Sunday | Review & refactor | ⬜ |
 
 ---
 
@@ -47,21 +75,21 @@ Every session is documented here with code, notes, and deliverables.
 ---
 
 ## Phase 2 — Industrial Protocols ⬜
-> Modbus TCP · OPC-UA · MQTT / Sparkplug B · Alarms · Reporting
+> Modbus TCP · OPC-UA · MQTT Sparkplug B · Alarm management · Reporting
 
-Weeks 7 – 12. Unlocks after Phase 1 milestone is delivered.
+Weeks 7 – 12.
 
 ---
 
 ## Phase 3 — Real Projects & Certification ⬜
-> ISA-101 HMI Design · OT Security · Ignition Core Certification
+> ISA-101 HMI Design · OT Network Security · Ignition Core Certification
 
-Weeks 13 – 18. Target: Ignition Core Certification exam.
+Weeks 13 – 18. Target: **Ignition Core Certification exam.**
 
 ---
 
 ## Phase 4 — Portfolio & Job Market ⬜
-> GitHub portfolio · Technical interviews · Capstone project · Launch
+> Capstone project · Technical interviews · Remote job applications
 
 Weeks 19 – 24.
 
@@ -71,22 +99,29 @@ Weeks 19 – 24.
 
 | Layer | Technology |
 |---|---|
-| Scripting | Python 3.11 (VS Code) · Jython 2.7 (Ignition) |
+| Scripting | Python 3.11 · Jython 2.7 (Ignition) |
 | SCADA Platform | Ignition 8.1 — Perspective module |
 | Database | MySQL · Ignition SQL Bridge |
 | Protocols | Modbus TCP · OPC-UA · MQTT Sparkplug B |
+| Previous stack | Angular · TypeScript · Oracle · PLSQL · COBOL |
 | Version Control | Git · GitHub |
-| English | Shadowing · Technical writing · Inductive University |
 
 ---
 
 ## Certifications Target
 
-| Certification | Provider | Target date |
+| Certification | Provider | Target |
 |---|---|---|
 | Ignition Core | Inductive Automation | Week 17 |
 | ISA CCST Level I | ISA | After Week 18 |
 
 ---
 
-*Started: April 2026 · Location: Colombia · Goal: SCADA/PLC Developer*
+## Contact
+
+- LinkedIn: [marcos-david-carvajal-florez](https://www.linkedin.com/in/marcos-david-carvajal-florez)
+- GitHub: [MarcosCarvajal](https://github.com/MarcosCarvajal)
+
+---
+
+*Started: April 2026 · Dosquebradas, Colombia · Goal: Remote SCADA/IIoT Developer*
