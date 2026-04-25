@@ -57,11 +57,11 @@ with operator report — the same flow Ignition runs on every historian query.
 | Day | Topic | Status |
 |---|---|---|
 | Monday | Dev environment — Python 3.11 + VS Code + Pylance | ✅ |
-| Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/TUESDAY.md) | ✅ |
-| Wednesday | [JSON Files & PLC Payloads](week-01/WEDNESDAY.md) | ✅ |
-| Thursday | [Functions & Error Handling](week-01/THURSDAY.md) | ✅ |
-| Friday | [Formatting, Filtering & Clean Code](week-01/FRIDAY.md) | ✅ |
-| Saturday | [Milestone — CSV Pipeline](week-01/SATURDAY.md) | 🔵 Today |
+| Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/01_sensor/TUESDAY.md) | ✅ |
+| Wednesday | [JSON Files & PLC Payloads](week-01/02_json_files/WEDNESDAY.md) | ✅ |
+| Thursday | [Functions & Error Handling](week-01/03_functions_loops_errors/THURSDAY.md) | ✅ |
+| Friday | [Formatting, Filtering & Clean Code](week-01/04_formatthing_filtering_clean_code/FRIDAY.md) | ✅ |
+| Saturday | [Milestone — CSV Pipeline](week-01/05_milestone_project/SATURDAY.md) | 🔵 Today |
 | Sunday | Review & refactor | ⬜ |
 
 ---
