@@ -60,7 +60,7 @@ with operator report — the same flow Ignition runs on every historian query.
 | Tuesday | [Lists & Dictionaries — Sensor modeling](week-01/01_sensor/TUESDAY.md) | ✅ |
 | Wednesday | [JSON Files & PLC Payloads](week-01/02_json_files/WEDNESDAY.md) | ✅ |
 | Thursday | [Functions & Error Handling](week-01/03_functions_loops_errors/THURSDAY.md) | ✅ |
-| Friday | [Formatting, Filtering & Clean Code](week-01/04_formatthing_filtering_clean_code/FRIDAY.md) | ✅ |
+| Friday | [Formatting, Filtering & Clean Code](week-01/04_formatting_filtering_clean_code/FRIDAY.md) | ✅ |
 | Saturday | [Milestone — CSV Pipeline](week-01/05_milestone_project/SATURDAY.md) | 🔵 Today |
 | Sunday | Review & refactor | ⬜ |
 
