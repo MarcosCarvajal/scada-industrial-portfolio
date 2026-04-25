@@ -1,0 +1,11 @@
+Saturday Notes — Week 01 Reflection & Week 02 PlanThis 
+week was very productive as I completed my first Milestone Project in Python, focusing on CSV data processing and JSON exports. 
+However, I realized that I lacked a clear roadmap for the upcoming days. To fix this, I have developed the following plan for Week 2:
+1. Technical Topic: PLC Connectivity & Ignition Next week, I will transition into industrial automation by studying the connection between 
+    a PLC and Ignition. My goal is to understand how data flows from the hardware layer into the SCADA system using Jython scripts.
+2. Deep Dive: Ignition ArchitectureWhile I am now comfortable with Python logic, I want to understand Ignition's architecture better. 
+    Understanding how the Gateway, Projects, and Tags interact will allow me to write more efficient automation scripts.
+3. English Goal: Mastering Past Verbs I want to improve my use of past tense verbs. This week, I learned how to handle errors and created a complex reporting function. 
+    I want to be able to explain everything I did during my practices with total confidence.
+4. Measurement of SuccessI will consider Week 2 a success if I can successfully read a live PLC tag within an Ignition vision window. 
+    I am motivated to put in the effort required; I have noticed that I usually spent about 3 hours per practice session, and I plan to maintain that consistency.
