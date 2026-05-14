@@ -9,7 +9,7 @@ print(tag_value)
 print(tag_value[0].value)
 print("\n")
 print("Step 3")
-system.tag.writeBlocking(tag_path, [29.8])
+system.tag.writeBlocking([tag_path], [29.8])
 result = system.tag.readBlocking([tag_path])
 print("current value: "+str(result[0].value))
 print("\n")
@@ -18,14 +18,14 @@ print("Step 4")
 def read_tag(name):
 	try:
 		return float(system.tag.readBlocking(["[default]"+name])[0].value)
-	except (valueError, TypeError):
+	except (ValueError, TypeError):
 		print("the tag name: "+name+" don't exists")
 
 def write_tag(name, newValue):
 	try:
-		system.tag.writeBlocking("[default]"+name, [newValue])
+		system.tag.writeBlocking(["[default]"+name], [newValue])
 		print("new tag vale for "+name+" set correctly")
-	except (valueError, TypeError):
+	except (ValueError, TypeError):
 		print("the tag name: "+name+" don't exists")
 
 current = read_tag("TEMP_ZONE_A")
