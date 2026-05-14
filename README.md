@@ -70,9 +70,9 @@ with operator report — the same flow Ignition runs on every historian query.
 
 | Day | Topic | Status |
 |---|---|---|
-| Monday | [Ignition install + Designer + first Memory Tag](week-02/01_ignition_setup/MONDAY.md) | 🔵 Today |
-| Tuesday | [system.tag.write() and system.tag.read()](week-02/02_tag_scripting/TUESDAY.md) | ⬜ |
-| Wednesday | [Gateway Timer Scripts — automated tag updates](week-02/03_gateway_timers/WEDNESDAY.md) | ⬜ |
+| Monday | [Ignition install + Designer + first Memory Tag](week-02/01_ignition_setup/MONDAY.md) | ✅ |
+| Tuesday | [system.tag.write() and system.tag.read()](week-02/02_tag_scripting/TUESDAY.md) | ✅ |
+| Wednesday | [Gateway Timer Scripts — automated tag updates](week-02/03_gateway_timers/WEDNESDAY.md) | 🔵 Today  |
 | Thursday | [system.util.getLogger() — logging in Ignition](week-02/04_logging/THURSDAY.md) | ⬜ |
 | Friday | [Simulating 3 tags — temp, humidity, pH](week-02/05_tag_simulation/FRIDAY.md) | ⬜ |
 | Saturday | [Milestone — live tag updater with alarm logic](week-02/06_milestone/SATURDAY.md) | ⬜ |
