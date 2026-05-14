@@ -11,7 +11,7 @@ print("\n")
 print("Step 3")
 system.tag.writeBlocking(tag_path, [29.8])
 result = system.tag.readBlocking([tag_path])
-print("current value: "+str(tag_value[0].value))
+print("current value: "+str(result[0].value))
 print("\n")
 
 print("Step 4")
