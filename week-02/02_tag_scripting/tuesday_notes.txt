@@ -1,0 +1,13 @@
+Ignition Designer & Tags Notes
+
+1. system.tag this library is used to read, write, configure, and delete tags in ignition. We use these functions to interact
+    with and modify tag values programmatically via Jython.
+2. system.util This library is used to retrieve or set parameters and other options within the ignition gateway.
+    Its helpful for getting information about the system environment or the current session.
+3. tag providers A tag provider is a collection of tags, such as the  "default", "system" or "vision client" providers.
+    We can create new Tag providers from gateway webPage by navigating to the "tags" section under the "config" menu and select
+    "create tag provider".
+4. Permissions and sources We can assign permissions to User Roles in ignition to restrict access. Additionally, tags can be created from
+    other sources such as gateway (remote tags), OPC, servers, or Databases using SQL queries.
+5. Tag Diagnostics Tags can sometimes fail or lose quality. We use the "tag diagnostics" window to troubleshoot why a tag
+    is failing. This window provides quick access to relevant information, such as the error sub-code and the last time the value changed.

@@ -62,11 +62,23 @@ with operator report — the same flow Ignition runs on every historian query.
 | Thursday | [Functions & Error Handling](week-01/03_functions_loops_errors/THURSDAY.md) | ✅ |
 | Friday | [Formatting, Filtering & Clean Code](week-01/04_formatting_filtering_clean_code/FRIDAY.md) | ✅ |
 | Saturday | [Milestone — CSV Pipeline](week-01/05_milestone_project/SATURDAY.md) | ✅ |
-| Sunday | Review & refactor | ⬜ |
+| Sunday | Review & refactor | ✅ |
 
 ---
 
 ### Week 2 — Jython in Ignition ⬜
+
+| Day | Topic | Status |
+|---|---|---|
+| Monday | [Ignition install + Designer + first Memory Tag](week-02/01_ignition_setup/MONDAY.md) | 🔵 Today |
+| Tuesday | [system.tag.write() and system.tag.read()](week-02/02_tag_scripting/TUESDAY.md) | ⬜ |
+| Wednesday | [Gateway Timer Scripts — automated tag updates](week-02/03_gateway_timers/WEDNESDAY.md) | ⬜ |
+| Thursday | [system.util.getLogger() — logging in Ignition](week-02/04_logging/THURSDAY.md) | ⬜ |
+| Friday | [Simulating 3 tags — temp, humidity, pH](week-02/05_tag_simulation/FRIDAY.md) | ⬜ |
+| Saturday | [Milestone — live tag updater with alarm logic](week-02/06_milestone/SATURDAY.md) | ⬜ |
+| Sunday | Review & refactor | ⬜ |
+
+---
 ### Week 3 — SQL for Industrial Historians ⬜
 ### Week 4 — Ignition Perspective UI ⬜
 ### Week 5 — JSON & Data Manipulation Advanced ⬜

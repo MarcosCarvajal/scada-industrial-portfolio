@@ -1,0 +1,7 @@
+Ignition Designer overview notes
+
+1. Tag Browser    - The tag browser is the primary interface within the ignition designer used to create, edit and organize tags.
+2. Designer       - The ignition designer is a multi-developer desktop application used to create projects.
+3. Gateway        - Gateway is a the main server of the ignition system. It is a web server that runs in the background, handling all the core logic.
+4. Memory Tag     - memory tag is a type of tag that stores its value within the ignition Gateway itself, rather than reading it from a PLC or a database.
+5. Tag Provider   - Tag provider is a logical grouping or "folder" of tags. Ignition can have multiple providers.
